@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Irina Tatti, a blend of a healthcare professional, tech enthusiast, and a bit of a music geek.
+I'm Irina, a blend of a healthcare professional, tech enthusiast, and a bit of a music geek.
 
 ## A Bit More About Me
 
